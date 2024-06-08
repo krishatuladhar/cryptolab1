@@ -1,5 +1,4 @@
 import numpy as np
-
 def egcd(a, b):
     if a == 0:
         return b, 0, 1
